@@ -428,7 +428,7 @@ const deleteFunction = () => {
             name: 'delete',
             type: 'list',
             message: 'Remove data option',
-            choices: ['Department', 'Role', 'Employee', 'Back']
+            choices: ['Employee','Role','Department', 'Back']
         })
         .then((chosen) => {
             switch(chosen.delete) {

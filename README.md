@@ -13,7 +13,7 @@
 ## Installation
 refer to npm install.
 ## Usage
-refer to DEMO video.
+refer to [DEMO Video](https://drive.google.com/file/d/1O7nw5q8iXEyhxoF0DgN5MmF_FPsTc73B/view?usp=sharing)
 ## Contributing
 pull request.
 
